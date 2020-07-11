@@ -11,14 +11,6 @@ h3 {
   color: #27496d;
 }
 
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
-}
-
 td {
   padding: 2px;
 }
