@@ -1,11 +1,14 @@
 body {
-  background-color: #d4b5b0;
+  background-color: #dae1e7;
 }
 
-h1,
+h1 {
+  color: #142850;
+}
+
 h2,
 h3 {
-  color: #383e56;
+  color: #27496d;
 }
 
 hr {
@@ -14,4 +17,12 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+}
+
+td {
+  padding: 2px;
+}
+
+td:hover {
+  color: darkgreen;
 }
