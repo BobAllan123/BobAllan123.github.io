@@ -1,18 +1,20 @@
 body {
   background-color: #028edd;
+  font-family: Georgia, New Times Roman, serif;
 }
 
 h1 {
-  color: #022169;
+  color: white;
 }
 
 h2,
 h3 {
-  color: #022169;
+  color: white;
 }
 
 td {
   padding: 2px;
+  font-size: 16px;
 }
 
 td:hover {
