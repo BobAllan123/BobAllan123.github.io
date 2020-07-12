@@ -14,6 +14,10 @@ td:hover {
   color: beige;
 }
 
-a { 
-  color: beige;
+a:link, a:visited {
+  color: white;
+}
+
+a:hover, a:active {
+  background-color: beige;
 }
